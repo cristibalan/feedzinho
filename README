@@ -1,0 +1,6 @@
+A tiny feedreader for lolcats and githubz.
+
+Works by fetching all unread items from google reader. It then parses and dumps 
+them into YYYY/MM/DD.html files.
+
+I then read them using the default directory listing in apache.
